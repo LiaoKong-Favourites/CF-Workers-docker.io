@@ -1,4 +1,5 @@
 // _worker.js
+// https://github.com/wongsyrone/CF-Workers-docker.io/blob/patch-1/_worker.js
 
 // Docker镜像仓库主机地址
 let hub_host = 'registry-1.docker.io';
